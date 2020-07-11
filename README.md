@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey! I'm Sam. 👋
 
 <!--
 **samhwang/samhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+What's up ? The name's Sam Huynh, but I usually go by samhwang in the dev space.
+I'm a Full Stack Software Developer in Melbourne, VIC, Australia. I'm passionate
+about all the things regarding modern software development.
+
+😄 Pronouns: He/Him/...
+
+## 📫 Get in touch with me
+
+- My online resumeis available [here](https://samhwang.github.io)
+- By email: samhwang2112.dev@gmail.com
+- On [LinkedIn](https://www.linkedin.com/in/samhwang2112/)
