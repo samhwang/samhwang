@@ -19,10 +19,12 @@ What's up ? The name's Sam Huynh, but I usually go by samhwang in the dev space.
 I'm a Full Stack Software Developer in Melbourne, VIC, Australia. I'm passionate
 about all the things regarding modern software development.
 
-😄 Pronouns: He/Him/...
+- 😄 Pronouns: He/Him/...
+- 💬 Proficient in: PHP, GoLang, Node, React, GraphQL (JavaScript, TypeScript), Docker, CI/CD
+- 🛠 Tools: VS Code, GitHub Actions
 
 ## 📫 Get in touch with me
 
-- My online resumeis available [here](https://samhwang.github.io)
+- My online resume is available [here](https://samhwang.github.io)
 - By email: samhwang2112.dev@gmail.com
 - On [LinkedIn](https://www.linkedin.com/in/samhwang2112/)
