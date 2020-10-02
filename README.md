@@ -22,6 +22,8 @@ about all the things regarding modern software development.
 - 😄 Pronouns: He/Him/...
 - 💬 Proficient in: PHP, GoLang, Node, React, GraphQL (JavaScript, TypeScript), Docker, CI/CD
 - 🛠 Tools: VS Code, GitHub Actions
+- 🌱 A dad of 2 cats
+- ⚡ Side hobbies: Cooking, PC Gaming, PC Building, Mechanical Keyboards, Photography
 
 ## 📫 Get in touch with me
 
