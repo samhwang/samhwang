@@ -20,8 +20,8 @@ I'm a Full Stack Software Developer in Melbourne, VIC, Australia. I'm passionate
 about all the things regarding modern software development.
 
 - 😄 Pronouns: He/Him/...
-- 💬 Proficient in: PHP, GoLang, Node, React, GraphQL (JavaScript, TypeScript), Docker, CI/CD
-- 🛠 Tools: VS Code, GitHub Actions
+- 💬 Proficient in: PHP, GoLang, Node, React, GraphQL (JavaScript, TypeScript), Docker
+- 🛠 Tools: VS Code, GitHub Actions, AWS
 - 🌱 A dad of 2 cats
 - ⚡ Side hobbies: Cooking, PC Gaming, PC Building, Mechanical Keyboards, Photography
 
