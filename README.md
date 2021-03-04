@@ -34,3 +34,5 @@ about all the things regarding modern software development.
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&count_private=true&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&theme=gruvbox&count_private=true&username=samhwang&langs_count=10&layout=compact&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
+
+[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=gruvbox&username=samhwang)](https://github-readme-stats.vercel.app)
