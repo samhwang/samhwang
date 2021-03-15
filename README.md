@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-What's up ? The name's Sam Huynh, but I usually go by samhwang in the dev space.
+What's up ? The name's Sam Huynh, and I usually go by samhwang in the dev space.
 I'm a Full Stack Software Developer in Melbourne, VIC, Australia. I'm passionate
 about all the things regarding modern software development.
 
@@ -31,8 +31,8 @@ about all the things regarding modern software development.
 - By email: samhwang2112.dev@gmail.com
 - On [LinkedIn](https://www.linkedin.com/in/samhwang2112/)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&count_private=true&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=gruvbox&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&theme=gruvbox&count_private=true&username=samhwang&langs_count=10&layout=compact&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
+[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=gruvbox&layout=compact&count_private=true&langs_count=10&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
 
-[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=gruvbox&username=samhwang)](https://github-readme-stats.vercel.app)
+[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samhwang&theme=gruvbox&layout=compact)](https://github-readme-stats.vercel.app)
