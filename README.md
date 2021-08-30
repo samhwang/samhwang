@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-What's up ? The name's Sam Huynh, and I usually go by samhwang in the dev space.
+What's up? The name's Sam Huynh, and I usually go by `samhwang` in the dev space.
 I'm a Full Stack Software Developer in Melbourne, VIC, Australia. I'm passionate
 about all the things regarding modern software development.
 
 - 😄 Pronouns: He/Him
-- 💬 Proficient in: PHP, GoLang, JavaScript, TypeScript, NodeJS, React, GraphQL, Docker
+- 💬 Proficient in: PHP, GoLang, JavaScript, TypeScript, NodeJS, React, GraphQL, Docker, Serverless
 - 🛠 Tools: VS Code, GitHub Actions, AWS
 - 🌱 A dad of 2 cats
 - ⚡ Side hobbies: Cooking, PC Gaming, PC Building, Mechanical Keyboards, Photography
