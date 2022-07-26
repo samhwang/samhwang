@@ -31,8 +31,8 @@ and building cloud infrastructures.
 - By email: samhwang2112.dev@gmail.com
 - On [LinkedIn](https://www.linkedin.com/in/samhwang2112/)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=gruvbox&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=nord&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
 
-[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=gruvbox&layout=compact&count_private=true&langs_count=10&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
+[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=nord&layout=compact&count_private=true&langs_count=10&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
 
-[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samhwang&theme=gruvbox&layout=compact)](https://github-readme-stats.vercel.app)
+[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samhwang&theme=nord&layout=compact)](https://github-readme-stats.vercel.app)
