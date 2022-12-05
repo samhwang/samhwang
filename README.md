@@ -15,21 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/samhwang2112 "LinkedIn URL")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhwang2112.dev@gmail.com "Email URL")
+
 What's up? The name's Sam. I'm a Full Stack Software Developer in Melbourne,
 VIC, Australia. I'm passionate about all the things regarding modern software development
 and building cloud infrastructures.
 
+My online resume is available [here](https://samhwang.github.io).
+
+Other things you should know about me:
+
 - 😄 Pronouns: He/Him
-- 💬 Proficient in: PHP, GoLang, JavaScript, TypeScript, NodeJS, React, GraphQL, Docker, Serverless
-- 🛠 Tools: VS Code, GitHub Actions, AWS
 - 🌱 A dad of 2 cats
-- ⚡ Side hobbies: Cooking, PC Gaming, PC Building, Mechanical Keyboards, Photography
+- ⚡ Love chatting about Cooking, PC Gaming + Building, Mechanical Keyboards, Cars & Photography.
 
-## 📫 Get in touch with me
+## Skills
 
-- My online resume is available [here](https://samhwang.github.io)
-- By email: samhwang2112.dev@gmail.com
-- On [LinkedIn](https://www.linkedin.com/in/samhwang2112/)
+- **Languages and Libraries**: PHP, Go, JavaScript (TypeScript, NodeJS, React, Deno, Meteor, Express, Fastify)
+- **Package management, bundling and build tools**: Composer, NPM, Yarn, PNPM, Webpack, Rollup, Vite
+- **API**: REST, tRPC, GraphQL
+- **Cloud computing**: AWS
+- **Infrastructure Orchestration**: Docker, Serverless, AWS CDK
+- **Databases**: SQL (MySQL/MariaDB, Postgres) and NoSQL (MongoDB, DynamoDB)
+- **CI/CD**: GitHub Actions & GitHub Container Registry, CircleCI, BuildKite
+- **Hosting**: Apache, NGINX, GitHub Pages, Vercel, AWS
+- **Server tracing and monitoring**: Sentry, Datadog
+- **Tools**: VS Code, JetBrains IDE (IntelliJ IDEA, WebStorm)
+
+## Stats
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=nord&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
 
