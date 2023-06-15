@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/samhwang2112 "LinkedIn URL")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhwang2112.dev@gmail.com "Email URL")
 
-What's up? The name's Sam. I'm a Full Stack Software Developer in Melbourne,
+What's up? The name's Sam. I'm a Full Stack Software Engineer in Melbourne,
 VIC, Australia. I'm passionate about all the things regarding modern software development
 and building cloud infrastructures.
 
@@ -31,19 +31,7 @@ Other things you should know about me:
 - 😄 Pronouns: He/Him
 - 🌱 A dad of 2 cats
 - ⚡ Love chatting about Cooking, PC Gaming + Building, Mechanical Keyboards, Cars & Photography.
-
-## Skills
-
-- **Languages and Libraries**: PHP, Go, JavaScript (TypeScript, NodeJS, React, Deno, Meteor, Express, Fastify)
-- **Package management, bundling and build tools**: Composer, NPM, Yarn, PNPM, Webpack, Rollup, Vite
-- **API**: REST, tRPC, GraphQL
-- **Cloud computing**: AWS
-- **Infrastructure Orchestration**: Docker, Serverless, AWS CDK
-- **Databases**: SQL (MySQL/MariaDB, Postgres) and NoSQL (MongoDB, DynamoDB)
-- **CI/CD**: GitHub Actions & GitHub Container Registry, CircleCI, BuildKite
-- **Hosting**: Apache, NGINX, GitHub Pages, Vercel, AWS
-- **Server tracing and monitoring**: Sentry, Datadog
-- **Tools**: VS Code, JetBrains IDE (IntelliJ IDEA, WebStorm)
+- Tools I use: [here](https://github.com/samhwang/use)
 
 ## Stats
 
