@@ -35,8 +35,8 @@ Other things you should know about me:
 
 ## Stats
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=nord&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=transparent&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
 
-[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=nord&layout=compact&count_private=true&langs_count=10&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
+[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=transparent&layout=compact&count_private=true&langs_count=10&hide=html,shell,asl,java,css,vim)](https://github-readme-stats.vercel.app)
 
-[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samhwang&theme=nord&layout=compact)](https://github-readme-stats.vercel.app)
+[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samhwang&theme=transparent&layout=compact)](https://github-readme-stats.vercel.app)
