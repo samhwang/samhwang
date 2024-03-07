@@ -24,12 +24,12 @@ What's up? The name's Sam. I'm a Full Stack Software Engineer in Melbourne,
 VIC, Australia. I'm passionate about all the things regarding modern software development
 and building cloud infrastructures.
 
-My online resume is available [here](https://samhwang.github.io).
+My online resume is available [here](https://me.samh.page).
 
 Other things you should know about me:
 
 - 😄 Pronouns: He/Him
-- 🌱 A dad of 2 cats
+- 🌱 A dad of 3 cats
 - ⚡ Love chatting about Cooking, PC Gaming + Building, Mechanical Keyboards, Cars & Photography.
 - Tools I use: [here](https://github.com/samhwang/use)
 
