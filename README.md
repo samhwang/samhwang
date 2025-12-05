@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/samhwang2112 "LinkedIn URL")
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samhwang2112 "LinkedIn URL")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhwang2112.dev@gmail.com "Email URL")
 
 What's up? The name's Sam. I'm a Full Stack Software Engineer in Melbourne,
