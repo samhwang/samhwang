@@ -32,9 +32,3 @@ Other things you should know about me:
 - 🌱 A dad of 3 cats
 - ⚡ Love chatting about Cooking, PC Gaming + Building, Mechanical Keyboards, Cars & Photography.
 - Tools I use: [here](https://github.com/samhwang/use)
-
-## Stats
-
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhwang&theme=transparent&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app)
-
-[![Sam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhwang&theme=transparent&layout=compact&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github-readme-stats.vercel.app)
